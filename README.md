@@ -4,7 +4,11 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 # Course Syllabus
 
-_Note: Each section contains an intro video._
+## 1. Introduction
+
+1. Making the most of this course
+2. Introduction to Dart
+3. Introduction to Dartpad
 
 ## 2. Dart Basics
 
