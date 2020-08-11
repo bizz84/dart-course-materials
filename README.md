@@ -54,7 +54,18 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 9.  enumerations
 10. **Exercise**: simple calculator
 
-## 5. Collections
+## 5. Project: Building a command line app
+
+1. Section intro
+2. Installing the Dart SDK
+3. Installing and configuring VS Code
+4. **Project Brief**: Rock, Paper & Scissors
+5. Creating a command line app
+6. Getting use input with stdin from dart:io
+7. The Game Loop
+8. Implementing the game logic
+
+## 6. Collections
 
 1. Section Intro
 2. Lists
@@ -75,8 +86,11 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 17. Collection-for
 18. Spreads
 19. **Exercise**: Shopping List
+20. Wrap up on Collections
 
-## 6. Dart Null Safety
+## 7. Project: Data Processing
+
+## 8. Dart Null Safety
 
 1. Introduction to Nullability
 2. Nullable and non-nullable variables
