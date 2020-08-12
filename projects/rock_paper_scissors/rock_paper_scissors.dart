@@ -2,11 +2,10 @@ import 'dart:io';
 import 'dart:math';
 
 enum Move { rock, paper, scissors }
-
 void main() {
   final rng = Random();
   while (true) {
-    stdout.write("Rock, paper or scissors? (r/p/s) ");
+    stdout.write('Rock, paper or scissors? (r/p/s) ');
     final input = stdin.readLineSync();
     if (input == 'r' || input == 'p' || input == 's') {
       var playerMove;
@@ -33,7 +32,18 @@ void main() {
     } else if (input == 'q') {
       break;
     } else {
-      stdout.write('Invalid input: $input\n');
+      print('Invalid input');
     }
   }
+// while true
+//   Show prompt
+//   Read user input from console
+//   If input is a valid move ("r", "p", "s")
+//     Choose the AI move at random
+//     Compare the player move with the AI move
+//     Show the result
+//   else if input is "q"
+//     Quit the program
+//   else
+//     Invalid input
 }
