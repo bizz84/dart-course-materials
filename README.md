@@ -61,9 +61,10 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 3. Installing and configuring VS Code
 4. **Project Brief**: Rock, Paper & Scissors
 5. Creating a command line app
-6. Getting use input with stdin from dart:io
-7. The Game Loop
-8. Implementing the game logic
+6. Pseudocode for the game logic
+7. Getting use input with stdin from dart:io
+8. Implementing the game loop
+9. Implementing the game logic
 
 ## 6. Collections
 
