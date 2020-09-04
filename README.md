@@ -1,6 +1,6 @@
 # Dart Course | Code With Andrea
 
-This repo contains all the exercises and solutions from my [Dart Course](https://courses.codewithandrea.com).
+This repo contains all the exercises and solutions from my [Dart Course](https://www.udemy.com/course/complete-dart-guide/?password=nnbd&couponCode=SEP-20).
 
 # Course Syllabus
 
@@ -101,6 +101,20 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 6. Null Safety with type inference
 7. Null Safety with collections
 8. The conditional access operator & the billion dollar mistake
+
+## Planned Content
+
+### 9. Functions and Generics
+
+### 10. Classes: Basics
+
+### 11. Classes: Advanced
+
+### 12. Mixins & Extensions
+
+### 13. Exceptions
+
+### 14. Async Programming
 
 
 ### [LICENSE: MIT](LICENSE)
