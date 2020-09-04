@@ -89,7 +89,13 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 19. **Exercise**: Shopping List
 20. Wrap up on Collections
 
-## 7. Project: Data Processing
+## 7. Project: Data Processing in Dart
+
+1. Section Intro
+2. Parsing command line arguments
+3. Reading files line by line
+4. Pseudocode for the processing logic
+5. Implementing the processing logic
 
 ## 8. Dart Null Safety
 
