@@ -9,6 +9,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 1. Making the most of this course
 2. Introduction to Dart
 3. Introduction to Dartpad
+4. Bonus Content: Dart Complete Reference eBook
 
 ## 2. Dart Basics
 
@@ -87,7 +88,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 17. Collection-for
 18. Spreads
 19. **Exercise**: Shopping List
-20. Wrap up on Collections
+20. Copying collections
 
 ## 7. Project: Data Processing in Dart
 
