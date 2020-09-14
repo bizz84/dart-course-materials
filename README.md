@@ -1,6 +1,6 @@
 # Dart Course | Code With Andrea
 
-This repo contains all the exercises and solutions from my [Dart Course](https://www.udemy.com/course/complete-dart-guide/?password=nnbd&couponCode=SEP-20).
+This repo contains all the exercises and solutions from my [Dart Course](https://nnbd.me/dart).
 
 # Course Syllabus
 
