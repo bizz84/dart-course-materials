@@ -20,17 +20,23 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 5. Basic types
 6. **Exercise**: printing variables
 7. String Concatenation & Interpolation
-8. String Escaping
-9.  Multi-line strings
-10. Basic String operations: uppercase and lowercase
-11. Initialization vs Assignment
-12. **Exercise**: Lowercase and uppercase strings
-13. Finding and replacing strings
-14. Conversions between types
-15. Arithmetic operations
-16. **Exercise**: temperature conversion
-17. Increment & decrement operators
-18. Expressions & statements
+8. **Exercise**: String interpolation
+9. String Escaping
+10. Multi-line strings
+11. Basic String operations: uppercase and lowercase
+12. Initialization vs Assignment
+13. **Exercise**: Lowercase and uppercase strings
+14. Finding and replacing strings
+15. Conversions between types
+16. Arithmetic operators
+17. **Exercise**: temperature conversion
+18. Increment & decrement operators
+19. Logical & Relational operators
+20. Ternary conditional operator
+21. Hex format, bitwise & shifting operators
+22. Comments
+23. Expressions & statements
+
 
 ## 3. Dart type system
 
