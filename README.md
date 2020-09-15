@@ -117,7 +117,30 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 ## Planned Content
 
-### 9. Functions and Generics
+### 9. Functions
+
+1. Section Intro
+2. Intro to functions
+3. Function arguments
+4. Return values
+5. **Exercise**: Sum of a list of numbers
+6. Named and positional arguments
+7. Required and default values
+8. Default positional arguments
+9. **Exercise**: Pizza ordering with functions
+10. Fat arrow notation
+11. Anonymous functions
+12. Functions as first class objects
+13. Function types
+14. The `forEach` method
+15. The `map` method
+16. `Iterable` and `toList()`
+17. Code reuse with anonymous functions and generics
+18. The `where` and `firstWhere` methods
+19. The `reduce` method
+20. Combining functional operators
+21. Inner Functions
+22. Lexical scope and closures
 
 ### 10. Classes: Basics
 
