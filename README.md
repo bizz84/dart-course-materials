@@ -117,7 +117,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 ## Planned Content
 
-### 9. Functions
+### 9. Functions: Basics
 
 1. Section Intro
 2. Intro to functions
@@ -129,28 +129,34 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 8. Default positional arguments
 9. **Exercise**: Pizza ordering with functions
 10. Fat arrow notation
-11. Anonymous functions
-12. Functions as first class objects
-13. Function types
-14. The `forEach` method
-15. The `map` method
-16. `Iterable` and `toList()`
-17. Code reuse with anonymous functions and generics
-18. The `where` and `firstWhere` methods
-19. The `reduce` method
-20. Combining functional operators
-21. Inner Functions
-22. Lexical scope and closures
 
-### 10. Classes: Basics
+### 10. Functions: Advanced
 
-### 11. Classes: Advanced
+1. Section Intro
+2. Anonymous functions
+3. Functions as first class objects
+4. Function types
+5. The `forEach` method
+6. The `map` method
+7. `Iterable` and `toList()`
+8. Code reuse with anonymous functions and generics
+9. The `where` and `firstWhere` methods
+10. **Exercise**: Implement the `where` function
+11. **Exercise**: Implement the `firstWhere` function
+12. The `reduce` method
+13. Combining functional operators
+14. Inner Functions
+15. Lexical scope and closures
 
-### 12. Mixins & Extensions
+### 11. Classes: Basics
 
-### 13. Exceptions
+### 12. Classes: Advanced
 
-### 14. Async Programming
+### 13. Mixins & Extensions
+
+### 14. Exceptions
+
+### 15. Async Programming
 
 
 ### [LICENSE: MIT](LICENSE)
