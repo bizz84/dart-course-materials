@@ -145,8 +145,9 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 11. **Exercise**: Implement the `firstWhere` function
 12. The `reduce` method
 13. Combining functional operators
-14. Inner Functions
-15. Lexical scope and closures
+14. The lexical scope (global vs local)
+15. Inner Functions
+16. Closures
 
 ### 11. Classes: Basics
 
