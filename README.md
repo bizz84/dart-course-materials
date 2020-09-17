@@ -115,9 +115,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 7. Null Safety with collections
 8. The conditional access operator & the billion dollar mistake
 
-## Planned Content
-
-### 9. Functions: Basics
+## 9. Functions: Basics
 
 1. Section Intro
 2. Intro to functions
@@ -129,6 +127,11 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 8. Default positional arguments
 9. **Exercise**: Pizza ordering with functions
 10. Fat arrow notation
+11. The global and local scope
+12. Inner Functions
+13. Global mutable state and functions with side effects
+
+## Planned Content
 
 ### 10. Functions: Advanced
 
@@ -136,18 +139,17 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 2. Anonymous functions
 3. Functions as first class objects
 4. Function types
-5. The `forEach` method
-6. The `map` method
-7. `Iterable` and `toList()`
-8. Code reuse with anonymous functions and generics
-9. The `where` and `firstWhere` methods
-10. **Exercise**: Implement the `where` function
-11. **Exercise**: Implement the `firstWhere` function
-12. The `reduce` method
-13. Combining functional operators
-14. The lexical scope (global vs local)
-15. Inner Functions
-16. Closures
+5. Closures
+6. The `forEach` method
+7. The `map` method
+8. `Iterable` and `toList()`
+9. Code reuse with anonymous functions and generics
+10. The `where` and `firstWhere` methods
+11. **Exercise**: Implement the `where` function
+12. **Exercise**: Implement the `firstWhere` function
+13. The `reduce` method
+14. Combining functional operators
+    
 
 ### 11. Classes: Basics
 
