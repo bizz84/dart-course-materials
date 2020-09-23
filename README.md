@@ -131,9 +131,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 12. Inner Functions
 13. Global mutable state and functions with side effects
 
-## Planned Content
-
-### 10. Functions: Advanced
+## 10. Functions: Advanced
 
 1. Section Intro
 2. Anonymous functions
@@ -150,8 +148,24 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 13. The `reduce` method
 14. Combining functional operators
     
+## Planned Content
 
 ### 11. Classes: Basics
+
+1. Section Intro
+2. Introduction to classes
+3. Instance methods
+4. Class constructors and the this keyword
+5. Initializer lists and the shorthand syntax
+6. Classes with immutable members
+7. **Exercise**: Creating a Person class
+8. Type safety with classes
+9. Named constructors
+10. Static methods and variables
+11. Const constructors
+12. Getters and setters
+13. **Exercise**: Restaurant ratings with classes
+
 
 ### 12. Classes: Advanced
 
