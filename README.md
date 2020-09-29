@@ -58,7 +58,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 6. **Exercise**: fizz buzz
 7. `break` and `continue`
 8. switch statements
-9.  enumerations
+9. enumerations
 10. **Exercise**: simple calculator
 
 ## 5. Project: Building a command line app
@@ -155,19 +155,35 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 1. Section Intro
 2. Introduction to classes
 3. Instance methods
-4. Class constructors and the this keyword
+4. Class constructors and the `this` keyword
 5. Initializer lists and the shorthand syntax
 6. Classes with immutable members
-7. **Exercise**: Creating a Person class
+7. **Exercise**: Creating a `Person` class
 8. Type safety with classes
-9. Named constructors
-10. Static methods and variables
-11. Const constructors
+9. Const constructors
+10. Named constructors
+11. Named constructors: temperature example
 12. Getters and setters
 13. **Exercise**: Restaurant ratings with classes
-
+14. Static methods and variables
+15. Private variables and methods
+16. Wrap up
 
 ### 12. Classes: Advanced
+
+1. Section Intro
+2. VS Code Dart Setup with Null Safety
+3. Introduction to inheritance / subclassing
+4. The `super` constructor
+5. Overriding methods
+6. Abstract classes
+7. Interfaces and the difference between `implements` and `extends`
+8. **Exercise**: Area and Perimeter
+9. The base `Object` class
+10. The `toString()` method
+11. The equality operator and the `covariant` keyword
+12. **Exercise**: Implement the + and * operators
+13. Overriding `hashCode` an the Equatable package
 
 ### 13. Mixins & Extensions
 
