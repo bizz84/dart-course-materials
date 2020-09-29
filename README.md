@@ -184,6 +184,13 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 11. The equality operator and the `covariant` keyword
 12. **Exercise**: Implement the + and * operators
 13. Overriding `hashCode` an the Equatable package
+14. Using classes with generics
+15. Composition vs inheritance
+16. Factory constructors
+17. Serialization (to and from JSON)
+18. Cloning objects with `copyWith`
+19. The cascade operator
+20. Wrap Up
 
 ### 13. Mixins & Extensions
 
