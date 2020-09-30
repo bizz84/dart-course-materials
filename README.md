@@ -147,10 +147,8 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 12. **Exercise**: Implement the `firstWhere` function
 13. The `reduce` method
 14. Combining functional operators
-    
-## Planned Content
 
-### 11. Classes: Basics
+## 11. Classes: Basics
 
 1. Section Intro
 2. Introduction to classes
@@ -168,6 +166,8 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 14. Static methods and variables
 15. Private variables and methods
 16. Wrap up
+
+## Planned Content
 
 ### 12. Classes: Advanced
 
