@@ -17,7 +17,7 @@ class Square extends Shape {
   double get area => side * side;
 
   @override
-  double get perimeter => side * 4;
+  double get perimeter => 4 * side;
 }
 
 class Circle extends Shape {
@@ -31,19 +31,10 @@ class Circle extends Shape {
   double get perimeter => 2 * pi * radius;
 }
 
-void printArea(Shape shape) {
-  print(shape.area);
-}
-
 void main() {
-  final Shape square = Square(10);
-  printArea(square);
-  final Shape circle = Circle(5);
-  printArea(circle);
-
   final shapes = [
-    Square(2),
-    Circle(3),
+    Square(3),
+    Circle(4),
   ];
   shapes.forEach((shape) => shape.printValues());
 }
