@@ -158,7 +158,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 6. Classes with immutable members
 7. **Exercise**: Creating a `Person` class
 8. Type safety with classes
-9. Const constructors
+9. `const` constructors
 10. Named constructors
 11. Named constructors: temperature example
 12. Getters and setters
@@ -177,8 +177,8 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 4. The `super` constructor
 5. Overriding methods
 6. Abstract classes
-7. Interfaces and the difference between `implements` and `extends`
-8. **Exercise**: Area and Perimeter
+7. **Exercise**: Area and Perimeter
+8. Interfaces and the difference between `implements` and `extends`
 9. The base `Object` class
 10. The `toString()` method
 11. The equality operator and the `covariant` keyword
