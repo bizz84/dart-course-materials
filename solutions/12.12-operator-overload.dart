@@ -11,11 +11,11 @@ class Point {
     return x == other.x && y == other.y;
   }
 
-  Point operator +(covariant Point other) {
+  Point operator +(Point other) {
     return Point(x + other.x, y + other.y);
   }
 
-  Point operator *(covariant int other) {
+  Point operator *(int other) {
     return Point(x * other, y * other);
   }
 }
