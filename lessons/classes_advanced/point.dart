@@ -1,15 +1,15 @@
-class Point {
+import 'package:equatable/equatable.dart';
+
+class Point extends Equatable {
   const Point(this.x, this.y);
   final int x;
   final int y;
 
   @override
-  String toString() => 'Point($x, $y)';
+  List<Object> get props => [x, y];
 
   @override
-  bool operator ==(covariant Point other) {
-    return x == other.x && y == other.y;
-  }
+  bool get stringify => true;
 
   Point operator +(Point other) {
     return Point(x + other.x, y + other.y);
@@ -21,8 +21,6 @@ class Point {
 }
 
 void main() {
-  // make this compile by overriding the + operator
-  print(Point(1, 1) + Point(2, 0)); // should print: Point(3, 1)
-  // make this compile by overriding the * operator
-  print(Point(2, 1) * 5); // should print: Point(10, 5)
+  print(Point(0, 0) == Point(0, 0));
+  print(Point(1, 1));
 }
