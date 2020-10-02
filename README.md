@@ -183,7 +183,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 10. The `toString()` method
 11. The equality operator and the `covariant` keyword
 12. **Exercise**: Implement the + and * operators
-13. Overriding `hashCode` an the Equatable package
+13. Overriding `hashCode` and the Equatable package
 14. Using classes with generics
 15. Composition vs inheritance
 16. Factory constructors
