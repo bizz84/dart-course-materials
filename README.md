@@ -186,10 +186,11 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 13. Overriding `hashCode` and the Equatable package
 14. Using classes with generics
 15. Composition vs inheritance: Flutter widget hierachy example
-16. Factory constructors and JSON serialization
-17. Cloning objects with `copyWith`
-18. The cascade operator
-19. Wrap Up
+16. Factory constructors and reading JSON data
+17. **Exercise**: JSON Serialization
+18. Copying objects with `copyWith`
+19. The cascade operator
+
 
 ### 13. Mixins & Extensions
 
