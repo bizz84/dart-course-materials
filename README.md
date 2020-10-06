@@ -167,9 +167,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 15. Private variables and methods
 16. Wrap up
 
-## Planned Content
-
-### 12. Classes: Advanced
+## 12. Classes: Advanced
 
 1. Section Intro
 2. VS Code Dart Setup with Null Safety
@@ -191,6 +189,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 18. Copying objects with `copyWith`
 19. The cascade operator
 
+## Planned Content
 
 ### 13. Mixins & Extensions
 
