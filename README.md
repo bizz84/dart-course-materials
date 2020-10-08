@@ -191,11 +191,20 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 ## Planned Content
 
-### 13. Mixins & Extensions
+### 13. Project: Simple eCommerce
 
-### 14. Exceptions
+1. Simple eCommerce store: Overview
+2. Creating the Product, Item, Cart classes
+3. Adding the interactive prompt
+4. Adding items to the cart
+5. Checkout functionality
+6. Project structure and wrap-up
 
-### 15. Async Programming
+### 14. Mixins & Extensions
+
+### 15. Exceptions
+
+### 16. Async Programming
 
 
 ### [LICENSE: MIT](LICENSE)
