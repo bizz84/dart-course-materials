@@ -202,6 +202,13 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 ### 14. Mixins & Extensions
 
+1. Section Intro
+2. Creating and using mixins
+3. Mixins: Drawbacks
+4. Extensions
+5. Extensions with generic type constraints
+6. **Exercise**: Range extension
+
 ### 15. Exceptions
 
 ### 16. Async Programming
