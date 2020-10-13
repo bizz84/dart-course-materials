@@ -2,6 +2,8 @@
 
 This repo contains all the exercises and solutions from my [Dart Course](https://nnbd.me/dart).
 
+![Course Contents](course-contents.png)
+
 # Course Syllabus
 
 ## 1. Introduction
