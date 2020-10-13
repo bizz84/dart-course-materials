@@ -189,9 +189,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 18. Copying objects with `copyWith`
 19. The cascade operator
 
-## Planned Content
-
-### 13. Project: Simple eCommerce
+## 13. Project: Simple eCommerce
 
 1. Simple eCommerce store: Overview
 2. Creating the Product, Item, Cart classes
@@ -199,6 +197,8 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 4. Adding items to the cart
 5. Checkout functionality
 6. Project structure and wrap-up
+
+## Planned Content
 
 ### 14. Mixins & Extensions
 
