@@ -211,7 +211,13 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 5. Extensions with generic type constraints
 6. **Exercise**: Range extension
 
-### 15. Exceptions
+### 15. Error Handling & Exceptions
+
+1. Section Intro
+2. Errors vs Exceptions
+3. Assertions
+4. Exceptions: `throw`, `try`, `catch`, `finally`, `rethrow`
+5. **Exercise**: Email validation
 
 ### 16. Async Programming
 
