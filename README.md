@@ -200,9 +200,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 5. Checkout functionality
 6. Project structure and wrap-up
 
-## Planned Content
-
-### 14. Mixins & Extensions
+## 14. Mixins & Extensions
 
 1. Section Intro
 2. Creating and using mixins
@@ -211,7 +209,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 5. Extensions with generic type constraints
 6. **Exercise**: Range extension
 
-### 15. Error Handling & Exceptions
+## 15. Error Handling & Exceptions
 
 1. Section Intro
 2. Errors vs Exceptions
@@ -219,8 +217,13 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 4. Exceptions: `throw`, `try`, `catch`, `finally`, `rethrow`
 5. **Exercise**: Email validation
 
+## Planned Content
+
 ### 16. Async Programming
 
+### 17. Weather App
+
+### 18. State Machine
 
 ### [LICENSE: MIT](LICENSE)
 
