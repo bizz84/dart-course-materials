@@ -217,9 +217,21 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 4. Exceptions: `throw`, `try`, `catch`, `finally`, `rethrow`
 5. **Exercise**: Email validation
 
-## Planned Content
+## 16. Async Programming
 
-### 16. Async Programming
+1. Section Intro
+2. Futures, `then`, `catchError`, `whenComplete`
+3. `async` and `await`
+4. `Future.value` and `Future.error`
+5. **Exercise**: Countdown with Futures
+6. Streams
+7. Stream generators: `async*` and `yield`
+8. **Exercise**: Fizz-buzz with streams
+9. Stream constructors
+10. Stream methods
+11. Single / multiple subscription streams
+
+## Planned Content
 
 ### 17. Weather App
 
