@@ -108,7 +108,7 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 
 ## 8. Dart Null Safety
 
-1. Introduction to Nullability
+1. Introduction to Null Safety
 2. Nullable and non-nullable variables
 3. Flow Analysis: Promotion and Definite Assignment
 4. The assertion operator
@@ -231,11 +231,16 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 10. Stream methods
 11. Single / multiple subscription streams
 
-## Planned Content
+## 17. Weather App
 
-### 17. Weather App
-
-### 18. State Machine
+1. Weather App Overview
+2. REST API Basics
+3. Creating the command-line app
+4. Creating a Weather API Client with the Dart http package
+5. Reading the response status code and data
+6. Completing the Weather API client
+7. Parsing JSON Data
+8. Error Handling and Wrap up
 
 ### [LICENSE: MIT](LICENSE)
 
