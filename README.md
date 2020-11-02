@@ -11,7 +11,6 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 1. Making the most of this course
 2. Introduction to Dart
 3. Introduction to Dartpad
-4. Bonus Content: Dart Complete Reference eBook
 
 ## 2. Dart Basics
 
@@ -241,6 +240,11 @@ This repo contains all the exercises and solutions from my [Dart Course](https:/
 6. Completing the Weather API client
 7. Parsing JSON Data
 8. Error Handling and Wrap up
+
+## 18. Conclusion & Next Steps
+
+1. BONUS Content: Free Dart eBook & Next Steps
+
 
 ### [LICENSE: MIT](LICENSE)
 
