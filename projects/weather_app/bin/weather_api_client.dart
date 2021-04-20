@@ -13,7 +13,7 @@ class WeatherApiClient {
   static const baseUrl = 'https://www.metaweather.com/api';
 
   Future<int> getLocationId(String city) async {
-    final locationUrl = '$baseUrl/location/search/?query=$city';
+    final locationUrl = Uri.parse('$baseUrl/location/search/?query=$city');
     final locationResponse = await http.get(locationUrl);
     if (locationResponse.statusCode != 200) {
       throw WeatherApiException('Error getting locationId for city: $city');
@@ -26,7 +26,7 @@ class WeatherApiClient {
   }
 
   Future<Weather> fetchWeather(int locationId) async {
-    final weatherUrl = '$baseUrl/location/$locationId';
+    final weatherUrl = Uri.parse('$baseUrl/location/$locationId');
     final weatherResponse = await http.get(weatherUrl);
     if (weatherResponse.statusCode != 200) {
       throw WeatherApiException(
