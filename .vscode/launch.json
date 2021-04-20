@@ -1,0 +1,42 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "data_processing",
+            "cwd": "projects/data_processing",
+            "program": "totals.dart",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "CSVExport-Code_With_Andrea-2019.csv"
+            ]
+        },
+        {
+            "name": "rock_paper_scissors",
+            "cwd": "projects/rock_paper_scissors",
+            "program": "rock_paper_scissors.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "simple_ecommerce",
+            "cwd": "projects/simple_ecommerce",
+            "program": "bin/main.dart",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "weather_app",
+            "cwd": "projects/weather_app",
+            "program": "bin/main.dart",
+            "request": "launch",
+            "type": "dart",
+            "args": [
+                "London"
+            ]
+        },
+    ]
+}
