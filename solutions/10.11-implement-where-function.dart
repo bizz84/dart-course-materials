@@ -1,6 +1,6 @@
 void main() {
   const list = [1, 2, 3, 4];
-  final odd = where(list, (value) => value % 2 == 1);
+  final odd = where(list, (int value) => value % 2 == 1);
   print(odd);
 }
 
