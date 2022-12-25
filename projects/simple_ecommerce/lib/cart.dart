@@ -9,7 +9,7 @@ class Cart {
     if (item == null) {
       _items[product.id] = Item(product: product, quantity: 1);
     } else {
-      _items[product.id] = Item(product: product, quantity: item.quantity + 1);
+      _items[product.id]!.addProduct();
     }
   }
 
