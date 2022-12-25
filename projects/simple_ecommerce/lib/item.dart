@@ -1,12 +1,17 @@
 import 'product.dart';
 
 class Item {
-  const Item({required this.product, this.quantity = 1});
+  Item({required this.product, this.quantity = 1}) : _totalNum = quantity;
   final Product product;
   final int quantity;
+  int _totalNum;
 
-  double get price => quantity * product.price;
+  double get price => _totalNum * product.price;
+
+  void addProduct() {
+    _totalNum += 1;
+  }
 
   @override
-  String toString() => '$quantity x ${product.name}: \$$price';
+  String toString() => '$_totalNum x ${product.name}: \$$price';
 }
